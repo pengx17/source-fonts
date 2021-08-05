@@ -4,7 +4,7 @@
   font-style: normal;
   font-stretch: normal;
   font-display: swap;
-  src: url("/fonts/SourceSans3VF-Roman.otf.woff2") format("woff2-variations");
+  src: url("fonts/SourceSans3VF-Roman.otf.woff2") format("woff2-variations");
 }
 
 @font-face {
@@ -13,7 +13,7 @@
   font-style: italic;
   font-stretch: normal;
   font-display: swap;
-  src: url("/fonts/SourceSans3VF-Italic.otf.woff2") format("woff2-variations");
+  src: url("fonts/SourceSans3VF-Italic.otf.woff2") format("woff2-variations");
 }
 
 @font-face {
@@ -22,7 +22,7 @@
   font-style: normal;
   font-stretch: normal;
   font-display: swap;
-  src: url("/fonts/SourceSerif4Variable-Roman.otf.woff2")
+  src: url("fonts/SourceSerif4Variable-Roman.otf.woff2")
     format("woff2-variations");
 }
 
@@ -32,7 +32,7 @@
   font-style: italic;
   font-stretch: normal;
   font-display: swap;
-  src: url("/fonts/SourceSerif4Variable-Italic.otf.woff2")
+  src: url("fonts/SourceSerif4Variable-Italic.otf.woff2")
     format("woff2-variations");
 }
 
@@ -42,7 +42,7 @@
   font-style: normal;
   font-stretch: normal;
   font-display: swap;
-  src: url("/fonts/SourceHanSansCN-VF.otf.woff2") format("woff2-variations");
+  src: url("fonts/SourceHanSansCN-VF.otf.woff2") format("woff2-variations");
 }
 
 @font-face {
@@ -50,5 +50,5 @@
   font-style: normal;
   font-stretch: normal;
   font-display: swap;
-  src: url("/fonts/NotoSerifCJKsc-Regular.otf");
+  src: url("fonts/NotoSerifCJKsc-Regular.otf");
 }
