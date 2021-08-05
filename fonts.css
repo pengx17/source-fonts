@@ -46,9 +46,65 @@
 }
 
 @font-face {
-  font-family: "Noto Serif CJK";
+  font-family: "Noto Serif SC";
+  font-weight: 200;
   font-style: normal;
   font-stretch: normal;
   font-display: swap;
-  src: url("fonts/NotoSerifCJKsc-Regular.otf");
+  src: url("fonts/NotoSerifSC-ExtraLight.otf");
+}
+
+
+@font-face {
+  font-family: "Noto Serif SC";
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url("fonts/NotoSerifSC-Light.otf");
+}
+
+@font-face {
+  font-family: "Noto Serif SC";
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url("fonts/NotoSerifSC-Regular.otf");
+}
+
+@font-face {
+  font-family: "Noto Serif SC";
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url("fonts/NotoSerifSC-Medium.otf");
+}
+
+@font-face {
+  font-family: "Noto Serif SC";
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url("fonts/NotoSerifSC-SemiBold.otf");
+}
+
+@font-face {
+  font-family: "Noto Serif SC";
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url("fonts/NotoSerifSC-Bold.otf");
+}
+
+@font-face {
+  font-family: "Noto Serif SC";
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url("fonts/NotoSerifSC-Black.otf");
 }
