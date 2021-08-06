@@ -1,4 +1,13 @@
-# Source & Noto
+# About
+This repo is a collection of Source/Noto font files and a CSS for Web usages.
+There are four font families 
+
+- `Source Sans 3 VF`
+- `Source Serif VF`
+- `Source Han Sans VF`
+- `Noto Serif SC`
+
+# Credits to Adobe & Google
 - https://github.com/adobe-fonts/source-sans
 - https://github.com/adobe-fonts/source-han-sans
 - https://github.com/adobe-fonts/source-han-serif
