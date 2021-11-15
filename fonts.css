@@ -46,6 +46,15 @@
 }
 
 @font-face {
+  font-family: "Source Han Serif VF";
+  font-weight: 200 900;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url("fonts/SourceHanSerifCN-VF.otf.woff2") format("woff2-variations");
+}
+
+@font-face {
   font-family: "Noto Serif SC";
   font-weight: 200;
   font-style: normal;
